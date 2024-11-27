@@ -1,0 +1,20 @@
+{
+  "bookings": [
+    {
+      "name": "John",
+      "service": "Oil Change",
+      "date": "2024-10-23",
+      "vehicleType": "bike",
+      "contactNumber": "1112223334",
+      "id": "07fa"
+    },
+    {
+      "id": "edb0",
+      "name": "John",
+      "service": "Tire Rotation",
+      "date": "2024-10-26",
+      "vehicleType": "bike",
+      "contactNumber": "1112223334"
+    }
+  ]
+}
